@@ -37,3 +37,6 @@ height: 100vh;
 }
 
 
+.card-button:hover{
+  cursor: pointer;
+}
