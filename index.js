@@ -54,17 +54,13 @@ function redirectToFacebookGroup() {
   window.open(facebookGroupUrl, "_blank");
 }
 function redirectToJobBoard() {
-  // Add the URL you want to redirect to
   var olJobUrl = "https://www.onlinejobs.ph/jobseekers/job/1091226";
 
-  // Open the Facebook group URL in a new window
   window.open(olJobUrl, "_blank");
 }
 
 function redirectToVentureNet() {
-  // Add the URL you want to redirect to
   var joinVentureNet = "https://twitter.com/home";
 
-  // Open the Facebook group URL in a new window
   window.open(joinVentureNet, "_blank");
 }
